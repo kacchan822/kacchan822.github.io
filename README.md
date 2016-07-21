@@ -4,4 +4,7 @@ User/Repository@SHA:moomindani/logmon@69cc44509a19f4c746d253d525a74634ad700c54
 
 moomindani@058c58f1fecc6b0ac827aad47fe7bd2dac710528
 
+https://github.com/moomindani/logmon/commit/058c58f1fecc6b0ac827aad47fe7bd2dac710528
+https://github.com/moomindani/logmon/commit/69cc44509a19f4c746d253d525a74634ad700c54
+
 https://hellow.skatsuya.com
